@@ -1,0 +1,15 @@
+{
+  "name": "modern-travel-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nigel Reoch",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize.css": "^4.2.0"
+  }
+}
