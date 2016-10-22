@@ -45,7 +45,7 @@
     font-size: .8rem;
     background-color: rgba($mainBlue, .7);
 
-    @mixing atMedium {
+    @mixin atMedium {
       padding: 12px 0;
       font-size: 1rem;
       background-color: transparent;
